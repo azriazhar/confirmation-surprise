@@ -1,0 +1,139 @@
+than .* expected
+than .* envisaged
+than .* anticipated
+than .* thought
+than .* at the previous meeting
+not likely
+no likely
+never likely
+none likely
+nothing likely
+neither likely
+nor likely
+nowhere likely
+cannot likely
+without likely
+hardly likely
+less likely
+little likely
+rarely likely
+scarcely likely
+seldom likely
+unlikely
+in contrast to expected
+forecast .* revised
+outlook .* revised
+growth .* revised
+inflation .* revised
+not expected
+no expected
+never expected
+none expected
+nothing expected
+neither expected
+nor expected
+nowhere expected
+cannot expected
+without expected
+hardly expected
+less expected
+little expected
+rarely expected
+scarcely expected
+seldom expected
+not anticipated
+no anticipated
+never anticipated
+none anticipated
+nothing anticipated
+neither anticipated
+nor anticipated
+nowhere anticipated
+cannot anticipated
+without anticipated
+hardly anticipated
+less anticipated
+little anticipated
+rarely anticipated
+scarcely anticipated
+seldom anticipated
+not envisaged
+no envisaged
+never envisaged
+none envisaged
+nothing envisaged
+neither envisaged
+nor envisaged
+nowhere envisaged
+cannot envisaged
+without envisaged
+hardly envisaged
+less envisaged
+little envisaged
+rarely envisaged
+scarcely envisaged
+seldom envisaged
+not thought
+no thought
+never thought
+none thought
+nothing thought
+neither thought
+nor thought
+nowhere thought
+cannot thought
+without thought
+hardly thought
+less thought
+little thought
+rarely thought
+scarcely thought
+seldom thought
+not surprise
+no surprise
+never surprise
+none surprise
+nothing surprise
+neither surprise
+nor surprise
+nowhere surprise
+cannot surprise
+without surprise
+hardly surprise
+less surprise
+little surprise
+rarely surprise
+scarcely surprise
+seldom surprise
+not in line with
+no in line with
+never in line with
+none in line with
+nothing in line with
+neither in line with
+nor in line with
+nowhere in line with
+cannot in line with
+without in line with
+hardly in line with
+less in line with
+little in line with
+rarely in line with
+scarcely in line with
+seldom in line with
+not consistent with
+no consistent with
+never consistent with
+none consistent with
+nothing consistent with
+neither consistent with
+nor consistent with
+nowhere consistent with
+cannot consistent with
+without consistent with
+hardly consistent with
+less consistent with
+little consistent with
+rarely consistent with
+scarcely consistent with
+seldom consistent with
